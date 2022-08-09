@@ -2,7 +2,7 @@ AKI Launcher AIO
 ================
 Created by s1nk0
 
-Compatibility: 3.0.0
+Compatibility: 3.2.0
 
 Install:
 --------
